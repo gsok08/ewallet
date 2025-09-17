@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="MyView6">
+        <attr name="exampleString8" format="string" />
+        <attr name="exampleDimension8" format="dimension" />
+        <attr name="exampleColor8" format="color" />
+        <attr name="exampleDrawable8" format="color|reference" />
+    </declare-styleable>
+</resources>

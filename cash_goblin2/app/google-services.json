@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769878125983",
+    "project_id": "cash-goblin-3d9ea",
+    "storage_bucket": "cash-goblin-3d9ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769878125983:android:5426d3b75ead5d3a3821aa",
+        "android_client_info": {
+          "package_name": "com.example.cash_goblin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1po9cmXZ1m0wWRphlmNp5hTlQgeyRlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
